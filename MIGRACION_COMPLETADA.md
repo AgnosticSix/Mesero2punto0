@@ -56,7 +56,7 @@ flutter analyze
 ## 📁 **Estructura Final**
 
 ```
-Mesero2punto0/
+mesero_2punto0/
 ├── lib/
 │   └── main.dart                 # Aplicación principal
 ├── assets/
@@ -70,7 +70,7 @@ Mesero2punto0/
 ├── ios/                          # Configuración iOS
 ├── web/                          # Configuración Web
 ├── pubspec.yaml                  # Dependencias Flutter
-└── README_FLUTTER.md             # Documentación Flutter
+└── README.md                     # Documentación
 ```
 
 ## 🔧 **Configuración VS Code**

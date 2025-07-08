@@ -1,5 +1,5 @@
 name: mesero_2punto0
-description: "A new Flutter project."
+description: "A Flutter project for a restaurant management app. This project is designed to provide a comprehensive solution for restaurant management, including features for order processing, menu management, and customer interaction."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

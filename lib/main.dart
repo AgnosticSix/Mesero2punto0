@@ -118,7 +118,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                   const SizedBox(height: 15),
                   const Text(
-                    'Edit lib/main.dart and hot reload to test HMR',
+                    // 'Edit lib/main.dart and hot reload to test HMR',
+                    'Modifica lib/main.dart y recarga para probar HMR',
                     style: TextStyle(
                       color: Colors.grey,
                       fontSize: 14,
